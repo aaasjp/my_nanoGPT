@@ -1,4 +1,5 @@
 
+# 构建自己的gpt
 # nanoGPT
 
 ![nanoGPT](assets/nanogpt.jpg)
